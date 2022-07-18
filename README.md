@@ -1,4 +1,4 @@
 Portfolio
 
 
-<h1>Link:<a href="https://italomiguel.github.io/Portfolio/" target="_blank">Portfolio</a>
+<h1>Link:<a style="text-decoration: none; color: black;" href="https://italomiguel.github.io/Portfolio/" target="_blank">https://italomiguel.github.io/Portfolio/</a>
